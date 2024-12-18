@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack Backend Java`**
 
-Me chamo Lucas, tenho 23 anos e sou natural de [sua cidade]. Atualmente, sou graduando em Ciência da Computação e estou participando do bootcamp da Generation Brasil para realizar minha transição de carreira. Nesse processo, estou adquirindo sólidos conhecimentos em Java, Spring, MySQL, React, JavaScript, HTML/CSS e Git, com o objetivo de me tornar um Desenvolvedor Full Stack Java Jr.
+Me chamo Lucas, tenho 23 anos e sou natural do Rio de Janeiro. Atualmente, sou graduando em Ciência da Computação e estou participando do bootcamp da Generation Brasil para realizar minha transição de carreira. Nesse processo, estou adquirindo sólidos conhecimentos em Java, Spring, MySQL, React, JavaScript, HTML/CSS e Git, com o objetivo de me tornar um Desenvolvedor Full Stack Java Jr.
 
 Sou apaixonado por tecnologia e estou determinado a superar desafios, crescer como programador e me tornar excelente na área.
 
